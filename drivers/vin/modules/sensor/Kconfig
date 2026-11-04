@@ -160,6 +160,10 @@ config SENSOR_IMX477
 	tristate "use imx477 driver"
 	default n
 
+config SENSOR_IMX577
+	tristate "use imx577 driver"
+	default n
+
 config SENSOR_OV2710
 	tristate "use ov2710 driver"
 	default n
