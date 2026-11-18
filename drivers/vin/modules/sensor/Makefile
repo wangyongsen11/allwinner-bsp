@@ -42,6 +42,7 @@ obj-$(CONFIG_SENSOR_OV2710)			+= ov2710_mipi.o
 obj-$(CONFIG_SENSOR_OV2718)			+= ov2718_mipi.o
 obj-$(CONFIG_SENSOR_OV5675)			+= ov5675_mipi.o
 obj-$(CONFIG_SENSOR_OV02A10)			+= ov02a10_mipi.o
+obj-$(CONFIG_SENSOR_AR0234)			+= ar0234_mipi.o
 obj-$(CONFIG_SENSOR_AR0238)			+= ar0238.o
 obj-$(CONFIG_SENSOR_OV8856)			+= ov8856_mipi.o
 obj-$(CONFIG_SENSOR_OV8858_R2A_4LANE)		+= ov8858_r2a_4lane.o

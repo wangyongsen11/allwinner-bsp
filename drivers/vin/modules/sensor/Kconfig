@@ -168,6 +168,10 @@ config SENSOR_OV2718
 	tristate "use ov2718 driver"
 	default n
 
+config SENSOR_AR0234
+	tristate "use ar0234 driver"
+	default n
+
 config SENSOR_AR0238
 	tristate "use ar0238 driver"
 	default n
